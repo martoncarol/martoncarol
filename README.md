@@ -12,9 +12,9 @@ Vila Nova de Gaia, Porto · Portugal
 
 ### O que faço
 
-**Desenvolvimento web** — PHP e Laravel, WordPress e Elementor, Android  
-**Marketing digital** — auditoria SEO, visibilidade digital, copywriting  
-**Gestão** — estratégia, CRM e qualidade de dados
+**Desenvolvimento web:** PHP e Laravel, WordPress e Elementor, Android  
+**Marketing digital:** auditoria SEO, visibilidade digital, copywriting  
+**Gestão:** estratégia, CRM e qualidade de dados
 
 `HTML` `CSS` `JavaScript` `React` `PHP` `Laravel` `MySQL` `Java` `WordPress` `Elementor` `Git`
 
@@ -37,9 +37,9 @@ Todos os projetos em detalhe no [portfólio](https://martoncarol.github.io).
 
 ### 02 / O meu caminho até aqui
 
-- **Estágio curricular** — desenvolvimento web, visibilidade digital e SEO
-- **CET em Programação de Sistemas de Informação** — IEFP / ISLA Gaia
-- **Professora de programação criativa** — Scratch com alunos do 1.º ciclo
+- **Estágio curricular:** desenvolvimento web, visibilidade digital e SEO
+- **CET em Programação de Sistemas de Informação:** IEFP / ISLA Gaia
+- **Professora de programação criativa:** Scratch com alunos do 1.º ciclo
 - **Freelancer de marketing digital**
 - **Empreendedora**
 
