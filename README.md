@@ -24,7 +24,7 @@ Vila Nova de Gaia, Porto · Portugal
 
 | Projeto | O que é |
 |---|---|
-| [ONTOP Digital](https://www.ontopdigital.pt/) | Agência de marketing B2B para PME industriais portuguesas |
+| [ONTOP Digital](https://www.ontopdigital.pt/) | Agência de desenvolvimento web e visibilidade digital B2B |
 | CRM da ONTOP | Verificação automática, limpeza e enriquecimento de dados · projeto interno |
 | [CIPLE School](https://www.cipleschool.com/) | Site WordPress, blog e campanhas Google Ads |
 | [FidelizaJá](https://www.fidelizaja.pt/) | Aplicação de marcações em Laravel · projeto final do curso |
